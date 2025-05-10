@@ -1,0 +1,7 @@
+*.log
+*.tmp
+*.bak
+.DS_Store
+/__pycache__/
+*.swp
+*.retry
