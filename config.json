@@ -1,0 +1,8 @@
+{
+  "max_proxies": 50,
+  "timeout": 5,
+  "sources": [
+    "https://api.proxyscrape.com/",
+    "https://raw.githubusercontent.com/..."
+  ]
+}
